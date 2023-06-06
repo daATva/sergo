@@ -33,7 +33,6 @@ body {
 	height: 50px;
 	background: #121214;
 	border-radius: 5px;
-
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -42,6 +41,8 @@ body {
 	font-size: 3vmin;
 	color: #D21855;
 	font-weight: bold;
+	font-size: 30px;
+
 }
 
 .canvas-wrapper {
